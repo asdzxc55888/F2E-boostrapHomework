@@ -1,0 +1,254 @@
+
+
+.navDiv{
+    width: 1440px;
+    height: 130px;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+.navDiv img{
+    width: 443px;
+    height: 80px;
+    padding: 0;
+    margin-left: 45px;
+    margin-right: 540px;
+    margin-top : 25px;
+}
+.navbar-nav ul{
+    margin-right:40px; 
+}
+.navbar-default .navbar-nav .nav-a{
+    font-size: 14px;
+    margin-top:40px; 
+    color: #6c6c6c;
+}
+.navbar-default .navbar-nav .nav-a:hover{
+    color: #d7ae41;
+}
+/*//////////////////////////////////////////////////////////////*/
+.section-brand{
+    background: url("../img/top-banner.jpg");
+    width: 1440px;
+    height: 782px;
+    font-family: 微軟正黑體;
+}
+.section-brand h1{
+    margin: 0px;
+    padding-top: 335px;
+    font-size:80px;
+    font-weight: 600;
+    letter-spacing: 10px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+.section-brand h2{ 
+    font-size:24px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+/*///////////////////////////////////////////////////////*/
+.section-about{
+    background: url("../img/about-bg.jpg");
+    width: 1440px;
+    height: 754px;
+    color: #FFFFFF;
+    font-family: 微軟正黑體;
+}
+.section-about img{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    width: 120px;
+    height: 120px;
+}
+.section-about .section-about-first{
+    margin-right: 335px;
+    margin-left: 335px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.62;
+
+}
+.section-about .section-about-first b{
+    font-size: 24px;
+    font-weight: 600;
+}
+.section-about .section-about-first hr{
+    display: block;
+    margin: auto;
+    width: 62px;
+    border: solid 1px;
+    border-color: #d7ae41;
+}
+.section-about .section-about-second{
+    margin-bottom: 40px;
+}
+.section-about .section-about-thrid{
+    margin-top:40px;
+}
+/*/////////////////////////////////////////////////////////////////////*/
+.section-service{
+    background: url("../img/service-bg.jpg");
+    width: 1440px;
+    height: 667px;
+    padding-top:100px; 
+    font-family: 微軟正黑體;
+}
+.section-service hr{
+    display: block;
+    margin: auto;
+    width: 62px;
+    border: solid 1px;
+    border-color: #d7ae41;
+}
+.section-service  h1{
+    margin-top:25px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    font-weight: 600;
+    color: #4a494b;
+}
+.section-service .row{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.section-service .service-item{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 270px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+    line-height: 60px;
+    color: #6c6c6c;
+}
+.section-service .service-row-final{
+    margin: auto;
+    margin-left: 120px;
+}
+/*//////////////////////////////////////////////////////////////////////////*/
+.section-team{
+    width: 1440px;
+    height: 810px;
+    font-family: 微軟正黑體;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.section-team hr{
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    width: 62px;
+    border: solid 1px;
+    border-color: #d7ae41;
+}
+.section-team .team-content{
+    width: 570px;
+    height: 400px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #f7f6f8;
+    padding: 0px;
+}
+.section-team .team-content img{
+    float: left;
+    margin-left:-15px;
+    width: 270px;
+    height: 400px;
+}
+.section-team .team-content h2{
+    font-size: 16px;
+    font-weight: 300;
+    margin-top:18px;
+    margin-bottom: 16px;
+}
+.section-team .team-content .team-text{
+    float: left;
+    width: 270px;
+    height: 400px;
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+.section-team .team-content .team-text p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.section-team .team-content .team-text .email{
+    margin-top: 15px;
+}
+.section-team .team-content .team-text h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.section-team button{
+    background: #FFFFFF;
+    font-size: 16px;
+    border:solid 1px #d7ae41;
+    color: #d7ae41;
+    width: 270px;
+    height: 60px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+/*/////////////////////////////////////////////////////////////////////////*/
+footer{
+    background: url("../img/footer-bg.jpg");
+    width: 1440px;
+    height: 437px;
+    font-family: 微軟正黑體;
+}
+footer hr{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 135px;
+    width: 62px;
+    border: solid 1px;
+    border-color: #d7ae41;
+}
+footer h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: #4a494b;
+    margin: 0px;
+    margin-left: 135px;
+}
+footer .row{
+    margin-top: 25px;
+}
+footer .footer-email{
+    font-size: 16px;
+    margin-left: 135px;
+}
+footer .footer-email p{
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+footer .footer-data{
+    font-size: 16px;
+    margin-left: 110px;
+}
+footer .footer-data p{
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+footer .final{
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 80px;
+    width: 1440px;
+    height: 48px;
+    color: #f7f6f8;
+    background: #2b2c2c;
+}
+footer .final p{
+    padding-top: 14px;
+}
+/*/////////////////////////////////////////////////////////////////////////*/
+.text-white{
+    color:#FFFFFF;
+}
