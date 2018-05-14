@@ -131,8 +131,8 @@
     width: 1440px;
     height: 810px;
     font-family: 微軟正黑體;
-    padding-left: 120px;
-    padding-right: 120px;
+    padding-left: 135px;
+    padding-right: 135px;
 }
 .section-team hr{
     margin: auto;
@@ -150,6 +150,12 @@
     margin-right: 15px;
     background-color: #f7f6f8;
     padding: 0px;
+}
+.section-team .left{
+    margin-left: 120px;
+}
+.section-team .right{
+    margin-right: 120px;
 }
 .section-team .team-content img{
     float: left;
